@@ -12,13 +12,6 @@ A **Bantech** é uma iniciativa focada em soluções **fintech** e **infraestrut
 
 ---
 
-## 📂 Repositórios principais
-- [`bantech-website`](https://github.com/bantech/bantech-website) → Landing page institucional e aplicações web.
-- [`bantech-k8s`](https://github.com/bantech/bantech-k8s) → Manifests, Helm Charts e GitOps para deploy em Kubernetes.
-- [`bantech-terraform`](https://github.com/bantech/bantech-terraform) → Infraestrutura como código (rede, DNS, Cloudflare, clusters).
-
----
-
 ## 👥 Times e responsabilidades
 - **Developers** → desenvolvimento do website e aplicações.
 - **Infra** → gestão de Terraform, Cloudflare e automação de ambientes.
@@ -37,7 +30,7 @@ A **Bantech** é uma iniciativa focada em soluções **fintech** e **infraestrut
 
 ## 📫 Contato
 Quer saber mais ou colaborar?  
-📧 contato@bantech.com.br  
+📧 bantechsoftware@gmail.com
 🌐 [www.bantech.com.br](https://www.bantech.com.br)
 
 ---
